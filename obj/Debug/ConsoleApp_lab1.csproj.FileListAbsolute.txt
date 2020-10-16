@@ -1,0 +1,7 @@
+E:\Документы для Универа\Алгоритмы и структуры данных\Lab1\ConsoleApp_lab1\bin\Debug\ConsoleApp_lab1.exe.config
+E:\Документы для Универа\Алгоритмы и структуры данных\Lab1\ConsoleApp_lab1\bin\Debug\ConsoleApp_lab1.exe
+E:\Документы для Универа\Алгоритмы и структуры данных\Lab1\ConsoleApp_lab1\bin\Debug\ConsoleApp_lab1.pdb
+E:\Документы для Универа\Алгоритмы и структуры данных\Lab1\ConsoleApp_lab1\obj\Debug\ConsoleApp_lab1.csprojAssemblyReference.cache
+E:\Документы для Универа\Алгоритмы и структуры данных\Lab1\ConsoleApp_lab1\obj\Debug\ConsoleApp_lab1.csproj.CoreCompileInputs.cache
+E:\Документы для Универа\Алгоритмы и структуры данных\Lab1\ConsoleApp_lab1\obj\Debug\ConsoleApp_lab1.exe
+E:\Документы для Универа\Алгоритмы и структуры данных\Lab1\ConsoleApp_lab1\obj\Debug\ConsoleApp_lab1.pdb
